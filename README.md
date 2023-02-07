@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanirulk&label=Profile%20views&color=0e75b6&style=flat" alt="chanirulk" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kchaniru" target="blank"><img src="https://img.shields.io/twitter/follow/kchaniru?logo=twitter&style=for-the-badge" alt="kchaniru" /></a> </p>
-
 <br>
-
 - 🔭 I’m currently working on my personal projects [RCLK | ARS | JADE](-)
 
 - 🌱 I’m currently learning **REACT | MERN STACK**
