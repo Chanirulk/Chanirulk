@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kchaniru" target="blank"><img src="https://img.shields.io/twitter/follow/kchaniru?logo=twitter&style=for-the-badge" alt="kchaniru" /></a> </p>
 <br>
-- 🔭 I’m currently working on my personal projects [RCLK | ARS | JADE](-)
+- 🔭 I’m currently working on my personal projects [RCLK | PERCS]
 
 - 🌱 I’m currently learning **REACT | MERN STACK**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **REACT | MERN STACK**
 
-- 📫 Instagram - **chanirulk.codes**
+- 📫 Instagram - **@chaniru.lk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
