@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chaniru Kodithuwakkuge</h1>
-<h3 align="center">A passionate software engineer based in Sri Lanka. Working on REACT | MERN STACK | GSAP | JS</h3>
+<h3 align="center">A passionate software engineer and creative developer based in Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanirulk&label=Profile%20views&color=0e75b6&style=flat" alt="chanirulk" /> </p>
+
+<a href="https://www.buymeacoffee.com/chanirulk" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 
 <p align="left"> <a href="https://twitter.com/kchaniru" target="blank"><img src="https://img.shields.io/twitter/follow/kchaniru?logo=twitter&style=for-the-badge" alt="kchaniru" /></a> </p>
 <br>
